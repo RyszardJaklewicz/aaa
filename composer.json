@@ -13,6 +13,6 @@
             "name": "rjaklewicz"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "beta",
     "require": {}
 }
